@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @nadaajerdi22  
+### 👋 Hi, I’m Nada Ajerdi
 💡 **Future Data Scientist** | Passionate about **AI, Machine Learning, and Big Data**  
 
 - 👀 I’m interested in **data science, AI, full-stack development, and cloud technologies**  
