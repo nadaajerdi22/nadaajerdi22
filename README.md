@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Nada Ajerdi
+### 👋 Hello, I’m Nada Ajerdi
 💡 **Future Data Scientist** | Passionate about **AI, ML, and Big Data**  
 
 - 👀 I’m interested in **data science, AI, full-stack development**  
