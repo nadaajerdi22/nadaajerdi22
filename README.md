@@ -1,5 +1,5 @@
 ### 👋 Hello, I’m Nada Ajerdi
-💡 **Data Scientist** | Passionate about **AI**  
+💡 **Data Scientist** | **AI** passionate 
 
 - 👀 I’m interested in **data science, data analysis and full-stack development**  
 - 💞️ I’m looking to collaborate on **ML projects, data-driven applications, and innovative solutions**  
